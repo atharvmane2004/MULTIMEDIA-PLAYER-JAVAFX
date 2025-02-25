@@ -1,8 +1,8 @@
-🎥 JavaFX Multimedia Player
+🎥 PlayFX Multimedia Player
 
 📌 Description
 
-The JavaFX Multimedia Player is a feature-rich video player that allows users to play local storage videos with an intuitive and fast UI design. Built using JavaFX and SceneBuilder (FXML), the player offers essential playback controls and an optimized user experience.
+The PlayFX Multimedia Player is a feature-rich video player that allows users to play local storage videos with an intuitive and fast UI design. Built using PlayFX and SceneBuilder (FXML), the player offers essential playback controls and an optimized user experience.
 
 ✨ Features
 
@@ -24,7 +24,7 @@ The JavaFX Multimedia Player is a feature-rich video player that allows users to
 
 -☕ Java: Core programming language.
 
--🎭 JavaFX: UI framework for building rich desktop applications.
+-🎭 PlayFX: UI framework for building rich desktop applications.
 
 -🏗 SceneBuilder (FXML): For fast and efficient UI design.
 
